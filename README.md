@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jess</h1>
-<h3 align="center">A novice developer,:D</h3>
+<h3 align="center">A novice developer, :D</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jess-lux&label=Profile%20views&color=0e75b6&style=flat" alt="jess-lux" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jess-lux" alt="jess-lux" /></a> </p>
+
 
 - 🔭 I’m currently working on [My website "Jess"](https://jess-lux.github.io/Jess)
 
