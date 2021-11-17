@@ -9,7 +9,7 @@
 
 - 🌠 I did a bypass to [Linkvertise](https://jess-lux.github.io/Bypass-Linkvertise/)
 
-### Connect with me:
+<p align="left"><h3>Connect with me:</h3><p>
 <p align="left">
 <a href="https://discord.gg/https://dsc.gg/lighthit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/lighthit" height="30" width="40" /></a></p>
 
@@ -21,14 +21,16 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
 </p>
 
-## Tools:
+<p align="left"><h3>Tools:</h3></p>
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 <br>
 <br>
+## Statistics:
   
+
 <a>
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Jess-Lux&show_icons=true&hide_border=true&theme=tokyonight">
   <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jess-Lux&hide_border=true&theme=tokyonight&layout=compact&hide=batchfile">
