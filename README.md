@@ -29,6 +29,14 @@
 <br>
 <br>
 <br>
+
+```fix
+     - Bypass:       Linkvertise  | 60% |  - Cellular adaptation  | .html / .css / .js
+     - Pagina Web:   Working...   | 30% |  -       No idea        | .html / .css / .js
+     - Discord:      Working...   | 0% |   -    Very Difficult    |  node.js
+```
+
+
 ## Statistics:
 <a>
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Jess-Lux&show_icons=true&hide_border=true&theme=tokyonight">
