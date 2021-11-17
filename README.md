@@ -9,7 +9,7 @@
 
 - 🌠 I did a bypass to [Linkvertise](https://jess-lux.github.io/Bypass-Linkvertise/)
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://discord.gg/https://dsc.gg/lighthit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/lighthit" height="30" width="40" /></a></p>
 <h3 align="left">Languages:</h3>
