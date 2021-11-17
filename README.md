@@ -28,9 +28,8 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 <br>
 <br>
-
+<br>
 ## Statistics:
-
 <a>
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Jess-Lux&show_icons=true&hide_border=true&theme=tokyonight">
   <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jess-Lux&hide_border=true&theme=tokyonight&layout=compact&hide=batchfile">
