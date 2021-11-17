@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jess</h1>
+<h1 align="center">Hi https://cdn.discordapp.com/attachments/910595291776942140/910595328783286342/908809949293989908.gif, I'm Jess</h1>
 <h3 align="center">A novice developer, :D</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jess-lux&label=Profile%20views&color=0e75b6&style=flat" alt="jess-lux" /> </p>
