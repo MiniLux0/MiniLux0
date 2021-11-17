@@ -1,5 +1,5 @@
-<h1 align="center">Hi https://cdn.discordapp.com/attachments/910595291776942140/910595328783286342/908809949293989908.gif, I'm Jess</h1>
-<h3 align="center">A novice developer, :D</h3>
+<h1 align="center">Hi <img align="center" src="https://cdn.discordapp.com/attachments/910595291776942140/910595328783286342/908809949293989908.gif">, I'm Jess</h1>
+<h3 align="center"><img align="center" src="https://cdn.discordapp.com/attachments/910595291776942140/910596566954442842/858114608924590090.gif" >A novice developer, :D <img align="center" src="https://cdn.discordapp.com/attachments/910595291776942140/910596948141158400/858097851112751104.gif" width="25" height="25"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jess-lux&label=Profile%20views&color=0e75b6&style=flat" alt="jess-lux" /> </p>
 
