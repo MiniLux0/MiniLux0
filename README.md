@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img align="center" src="https://cdn.discordapp.com/attachments/910595291776942140/910595328783286342/908809949293989908.gif">, I'm Lux</h1>
 <h3 align="center"><img align="center" src="https://cdn.discordapp.com/attachments/910595291776942140/910596566954442842/858114608924590090.gif" >A novice developer, :D <img align="center" src="https://cdn.discordapp.com/attachments/910595291776942140/910596948141158400/858097851112751104.gif" width="25" height="25"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jess-lux&label=Profile%20views&color=0e75b6&style=flat" alt="jess-lux" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MiniLux0&label=Profile%20views&color=0e75b6&style=flat" alt="MiniLux0" /> </p>
 
 
 
-- 🔭 I’m currently working on [My website "Jess"](https://jess-lux.github.io/Jess)
+- 🔭 I’m currently working on [My website "Jess"](https://MiniLux0.github.io/Jess)
 
-- 🌠 I did a bypass to [Linkvertise](https://jess-lux.github.io/Bypass-Linkvertise/)
+- 🌠 I did a bypass to [Linkvertise](https://MiniLux0.github.io/Bypass-Linkvertise/)
 
 <p align="left"><h3>Connect with me:</h3><p>
 <p align="left">
@@ -39,6 +39,6 @@
 
 ## Statistics:
 <a>
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Jess-Lux&show_icons=true&hide_border=true&theme=tokyonight">
-  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jess-Lux&hide_border=true&theme=tokyonight&layout=compact&hide=batchfile">
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=MiniLux0&show_icons=true&hide_border=true&theme=tokyonight">
+  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiniLux0&hide_border=true&theme=tokyonight&layout=compact&hide=batchfile">
 </a>
