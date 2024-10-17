@@ -37,6 +37,10 @@
 ```
 
 
+## Social
+
+[![Discord](https://discord.c99.nl/widget/theme-4/551527940689625098.png)](https://discord.com/channels/@me/551527940689625098)
+
 ## Statistics:
 <a>
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=MiniLux0&show_icons=true&hide_border=true&theme=tokyonight">
